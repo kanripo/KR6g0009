@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:59.849405
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 涅槃宗要
 #+PROPERTY: CBETA_ID T38n1769
 #+PROPERTY: ID KR6g0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1769
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0009_T_000-0239a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0009_T_001-0239a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1769[cf.No.375]¶
-
- 涅槃宗要¶
+No. 1769 [cf. No. 375]¶
+涅槃宗要¶
 ¶
 元曉師撰¶
 
@@ -1305,8 +1304,7 @@ No.1769[cf.No.375]¶
 三世未至理原。無非三世。如經云。後身菩薩¶
 佛性因故亦是過去現在未來。果亦如是。九¶
 地菩薩佛性因故亦是過去現在未來。果亦如¶
-是。九地菩薩佛性因故亦是過去現在未來。¶
-果亦如是乃至廣說故。問第二句中明如來¶
+是。九地菩薩佛性因故亦是過去現在未來。果亦如是乃至廣說故。問第二句中明如來¶
 因乃取未成佛時因性。今第三句明菩薩果¶
 廣說當成時果性。何故此中不取當果。解云。¶
 不例立果望因。因是已修故得取。因在望果。¶
